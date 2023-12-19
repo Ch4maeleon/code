@@ -2,7 +2,7 @@
 
 namespace CsStudy
 {
-    internal class Program
+    internal class Chapter01
     {
         static void Main(string[] args)
         {
